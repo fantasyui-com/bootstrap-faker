@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-faker",
+  "version": "1.0.0",
+  "description": "Bootstrap Faker generates massive amounts of useful randomized bootstrap related data such as card styles, warning labels, button types, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/bootstrap-faker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/bootstrap-faker/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/bootstrap-faker#readme",
+  "dependencies": {
+    "oneof": "^1.0.1"
+  }
+}
