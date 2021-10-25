@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-faker",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Bootstrap Faker generates massive amounts of useful randomized bootstrap related data such as card styles, warning labels, button types, etc.",
   "main": "index.js",
   "scripts": {
